@@ -1,6 +1,6 @@
 # enzoFR60_NPCINFO
 
-Version steam : 
+Version steam : https://steamcommunity.com/sharedfiles/filedetails/?id=1403418334
 
 Fr : 
 Bonjour, Je vous présente mon nouvelle addon le but est d'informer les joueurs.
