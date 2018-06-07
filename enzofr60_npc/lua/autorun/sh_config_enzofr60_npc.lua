@@ -31,7 +31,7 @@ enzoFR60NPC.SiteLien = "https://www.twitch.tv/enzofr60" -- Lien HTML De votre Si
 
 enzoFR60NPC.CollectionLien = "https://livecounts.net/channel/enzofr60" -- Lien HTML De votre Collection Steam (Addons) (http)
 
-enzoFR60NPC.BoutiqueLien = "https://twitter.com/EnzoNight" -- Lien HTML De votre Boutique (http)
+enzoFR60NPC.BoutiqueLien = "https://twitter.com/enzofr60?lang=fr" -- Lien HTML De votre Boutique (http)
 
 enzoFR60NPC.DiscordLien = "https://discord.gg/BS7rMzK" -- Lien HTML De votre Discord (http)
 
